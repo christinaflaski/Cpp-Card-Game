@@ -1,0 +1,6 @@
+﻿  player.cpp
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\player.h(25,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\player.h(26,30): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\player.h(27,33): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\player.cpp(81,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Work2021.vcxproj -> D:\chris\Documents\AUEB\c++\Game2021\Work2021\bin\Work2021d.exe

@@ -1,0 +1,19 @@
+﻿  game.cpp
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\player.h(24,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\player.h(25,30): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\player.h(26,33): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\game.cpp(286,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\game.cpp(287,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\game.cpp(289,141): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\game.cpp(289,112): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\game.cpp(289,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\game.cpp(295,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\game.cpp(447,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\game.cpp(448,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chris\Documents\AUEB\c++\Game2021\Work2021\Work2021\game.cpp(528,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  4 of 341 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Work2021.vcxproj -> D:\chris\Documents\AUEB\c++\Game2021\Work2021\bin\Work2021.exe
